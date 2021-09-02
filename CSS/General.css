@@ -1,33 +1,36 @@
 html{
-    font-family: "Calibri Light", sans-serif;
+    /*font-family: "Calibri Light", sans-serif; */
+    -webkit-text-size-adjust: 100%;
      }
 
 /* Header style */
 header{
+    font-family: "Calibri Light", sans-serif;
     border-radius: 30px;
     background-image: url("../Images/bg.png");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 15px;
-    font-size: 20px;
+    font-size: 1.5vw;
     color: white;
     text-align: center;
 }
 
 section{
-
+    width: 100%;
 }
 .nav1 {
+    font-family: "Book Antiqua", serif;
     border-radius: 25px;
     float: left;
-    width: 20%;
+    width: 25%;
     height: 500px;
     background-image: url('../Images/img_3.jpg');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 20px;
+    padding: 0px;
 }
 
 /* Side navigation design using "nav-menu" class */
@@ -67,20 +70,25 @@ li{
 /* Content section style */
 
 p {
-    font-family: "Calibri Light", sans-serif;
+
     font-size: 18px;
+
 }
 .art {
+    text-align:justify;
+    line-height: 1.6;
+    font-family: "Book Antiqua", serif;
     border-radius: 25px;
     float: left;
-    padding: 20px;
-    width: 74%;
+    padding: 0px;
+    width: 75%;
     background-color: azure;
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
     overflow: scroll;
+
 }
 
 /* PREV NEXT buttons */
@@ -102,6 +110,10 @@ p {
 }
 
 
+#maininfo1{
+    padding: 20px;
+
+}
 
 @media screen and (max-width: 800px) {
   .art, .nav1 {
