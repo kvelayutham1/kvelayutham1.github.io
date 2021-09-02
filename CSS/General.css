@@ -116,6 +116,12 @@ p {
 }
 
 @media screen and (max-width: 1200px) {
-  .art, .nav1 {
-    width: 100%;
+    .art, .nav1 {
+        width: 100%;
+    }
+
+     table {
+    border: 0;
+         width: 90%;
   }
+}
