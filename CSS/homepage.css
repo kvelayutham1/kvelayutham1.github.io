@@ -17,7 +17,7 @@ header
 }
 
 h1{
-    font-family: Calibri;
+    font-family: "Calibri Light", sans-serif;
     font-size: 65px;
     alignment: center;
     color: #8DED91
@@ -25,7 +25,7 @@ h1{
 
 p
 {
-    font-family: Calibri;
+    font-family: "Calibri Light", sans-serif;
     font-size: 30px;
     /*color: whitesmoke; */
     color: midnightblue;
