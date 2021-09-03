@@ -2,6 +2,7 @@
 ISQA 3900 Activity 2 Karpagam Velayutham
 
 Project link: https://kvelayutham1.github.io/
+GitHub Repository link: https://github.com/kvelayutham1/kvelayutham1.github.io.git
 
 Website is an Elearning Website for basic concepts of Web Application Development.
 
